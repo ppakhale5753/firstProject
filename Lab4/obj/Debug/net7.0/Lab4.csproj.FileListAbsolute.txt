@@ -1,0 +1,15 @@
+/Users/prajaktapakhale/Projects/Lab4/Lab4/bin/Debug/net7.0/Lab4
+/Users/prajaktapakhale/Projects/Lab4/Lab4/bin/Debug/net7.0/Lab4.deps.json
+/Users/prajaktapakhale/Projects/Lab4/Lab4/bin/Debug/net7.0/Lab4.runtimeconfig.json
+/Users/prajaktapakhale/Projects/Lab4/Lab4/bin/Debug/net7.0/Lab4.dll
+/Users/prajaktapakhale/Projects/Lab4/Lab4/bin/Debug/net7.0/Lab4.pdb
+/Users/prajaktapakhale/Projects/Lab4/Lab4/obj/Debug/net7.0/Lab4.csproj.AssemblyReference.cache
+/Users/prajaktapakhale/Projects/Lab4/Lab4/obj/Debug/net7.0/Lab4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prajaktapakhale/Projects/Lab4/Lab4/obj/Debug/net7.0/Lab4.AssemblyInfoInputs.cache
+/Users/prajaktapakhale/Projects/Lab4/Lab4/obj/Debug/net7.0/Lab4.AssemblyInfo.cs
+/Users/prajaktapakhale/Projects/Lab4/Lab4/obj/Debug/net7.0/Lab4.csproj.CoreCompileInputs.cache
+/Users/prajaktapakhale/Projects/Lab4/Lab4/obj/Debug/net7.0/Lab4.dll
+/Users/prajaktapakhale/Projects/Lab4/Lab4/obj/Debug/net7.0/refint/Lab4.dll
+/Users/prajaktapakhale/Projects/Lab4/Lab4/obj/Debug/net7.0/Lab4.pdb
+/Users/prajaktapakhale/Projects/Lab4/Lab4/obj/Debug/net7.0/Lab4.genruntimeconfig.cache
+/Users/prajaktapakhale/Projects/Lab4/Lab4/obj/Debug/net7.0/ref/Lab4.dll
