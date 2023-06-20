@@ -1,4 +1,29 @@
-﻿<Properties StartupConfiguration="{EBC54A61-D921-4F42-BD6B-90334B7C924D}|Default">
-  <MonoDevelop.Ide.ItemProperties.Lab4 FirstBuild="True" />
+﻿<Properties StartupConfiguration="{1D99FA81-6FAF-4B1B-B8D8-C37D91CE6C83}|Default">
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ScaleneT PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Triangle/Class1.cs">
+    <Files>
+      <File FileName="ScaleneT/Program.cs" Line="7" Column="6" />
+      <File FileName="Triangle/Class1.cs" Line="11" Column="54" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab4" expanded="True">
+            <Node name="ScaleneT" expanded="True" />
+            <Node name="Triangle" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Class1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Triangle FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

@@ -1,0 +1,15 @@
+/Users/prajaktapakhale/Projects/Lab4/ScaleneT/bin/Debug/net7.0/ScaleneT
+/Users/prajaktapakhale/Projects/Lab4/ScaleneT/bin/Debug/net7.0/ScaleneT.deps.json
+/Users/prajaktapakhale/Projects/Lab4/ScaleneT/bin/Debug/net7.0/ScaleneT.runtimeconfig.json
+/Users/prajaktapakhale/Projects/Lab4/ScaleneT/bin/Debug/net7.0/ScaleneT.dll
+/Users/prajaktapakhale/Projects/Lab4/ScaleneT/bin/Debug/net7.0/ScaleneT.pdb
+/Users/prajaktapakhale/Projects/Lab4/ScaleneT/obj/Debug/net7.0/ScaleneT.csproj.AssemblyReference.cache
+/Users/prajaktapakhale/Projects/Lab4/ScaleneT/obj/Debug/net7.0/ScaleneT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prajaktapakhale/Projects/Lab4/ScaleneT/obj/Debug/net7.0/ScaleneT.AssemblyInfoInputs.cache
+/Users/prajaktapakhale/Projects/Lab4/ScaleneT/obj/Debug/net7.0/ScaleneT.AssemblyInfo.cs
+/Users/prajaktapakhale/Projects/Lab4/ScaleneT/obj/Debug/net7.0/ScaleneT.csproj.CoreCompileInputs.cache
+/Users/prajaktapakhale/Projects/Lab4/ScaleneT/obj/Debug/net7.0/ScaleneT.dll
+/Users/prajaktapakhale/Projects/Lab4/ScaleneT/obj/Debug/net7.0/refint/ScaleneT.dll
+/Users/prajaktapakhale/Projects/Lab4/ScaleneT/obj/Debug/net7.0/ScaleneT.pdb
+/Users/prajaktapakhale/Projects/Lab4/ScaleneT/obj/Debug/net7.0/ScaleneT.genruntimeconfig.cache
+/Users/prajaktapakhale/Projects/Lab4/ScaleneT/obj/Debug/net7.0/ref/ScaleneT.dll

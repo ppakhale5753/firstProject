@@ -1,0 +1,5 @@
+/Users/prajaktapakhale/Projects/Lab4/TestClass/obj/Debug/net7.0/TestClass.csproj.AssemblyReference.cache
+/Users/prajaktapakhale/Projects/Lab4/TestClass/obj/Debug/net7.0/TestClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prajaktapakhale/Projects/Lab4/TestClass/obj/Debug/net7.0/TestClass.AssemblyInfoInputs.cache
+/Users/prajaktapakhale/Projects/Lab4/TestClass/obj/Debug/net7.0/TestClass.AssemblyInfo.cs
+/Users/prajaktapakhale/Projects/Lab4/TestClass/obj/Debug/net7.0/TestClass.csproj.CoreCompileInputs.cache
